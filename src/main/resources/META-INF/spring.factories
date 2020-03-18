@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.sccl.lego.framework.config.apidoc.SwaggerConfiguration,\
+  com.sccl.lego.framework.service.impl.snowflake.SnowFlakeService,\
+  com.sccl.lego.framework.config.LegoProperties
